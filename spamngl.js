@@ -16,7 +16,7 @@ const banner = () => {
     '\n' +
     chalk.bold.hex('#05d9e8')('╔' + '═'.repeat(48) + '╗') + '\n' +
     chalk.bold.hex('#05d9e8')('║ ') +
-      chalk.bold.hex('#ff2a6d')('Script  : ') + chalk.bold.hex('#d1f7ff')('Spammer ngln cli'.padEnd(28)) +
+      chalk.bold.hex('#ff2a6d')('Script  : ') + chalk.bold.hex('#d1f7ff')('Spammer ngl cli'.padEnd(28)) +
     chalk.bold.hex('#05d9e8')('║') + '\n' +
     chalk.bold.hex('#05d9e8')('║ ') +
       chalk.bold.hex('#ff2a6d')('Versi   : ') + chalk.bold.hex('#d1f7ff')('1.0.0'.padEnd(34)) +
